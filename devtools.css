@@ -27,6 +27,10 @@
   transform: scale(1.5);
 }
 
+.children {
+  transition: none !important;
+}
+
  #-blink-dev-tools * {
   font-family: 'Fira Code' !important;
 }
